@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ctvidic-whoop-mcp-server-badge.png)](https://mseep.ai/app/ctvidic-whoop-mcp-server)
+
 # Whoop MCP Server
 Python Package License: MIT Python 3.12
 
